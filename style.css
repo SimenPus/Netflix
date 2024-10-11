@@ -68,7 +68,7 @@
 }
 
 button {
-    justify-content: center
+    justify-content: center;
     display: flex;
     width: 60px;
     height: 30px;
